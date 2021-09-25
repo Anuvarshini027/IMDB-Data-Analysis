@@ -7,9 +7,9 @@ This dataset contains 28 variables for 5043 movies, spanning across 100 years(19
 
 ## The Code:
 
-It is written in scala and run in spark shell.
-Click link to learn how to download spark (https://youtu.be/cYL42BBL3Fo)
-To load any script after loading spark shell using command spark-shell do :load filename.scala
+It is written in scala and run in spark shell. <br/>
+Click link to learn how to download spark (https://youtu.be/cYL42BBL3Fo)<br/>
+To load any script after loading spark shell using command `spark-shell` do `:load filename.scala`
 
 ## Load to csv:
 
